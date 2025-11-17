@@ -1,76 +1,64 @@
-<h1 align="center">John Amores</h1>
+# 👋 Hi, I'm **John Amores**
 
-###
+### **Software Engineer | Cloud & Data Analytics | Telecom & Healthcare Systems**
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+I’m a software engineer with experience supporting large-scale enterprise systems across telecom, cloud platforms, and unified communications. My background spans frontend development, backend services, network operations, and high-availability support for FedRAMP and carrier-grade infrastructure.
 
-###
+I'm currently building deeper expertise in **cloud engineering**, **data analytics**, and **automation**, with long-term goals in the **healthcare technology** space.
 
-<h2 align="left">Technical Skills</h2>
+---
 
-###
+## 🔧 Technical Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### **Languages**
+JavaScript | TypeScript | Python | Java | SQL (Postgres, Oracle) | NoSQL (MongoDB)
 
-###
+### **Frameworks & Libraries**
+React | Next.js | Angular | Spring Boot | Django  
+Tailwind CSS | Material UI | Bootstrap | Shadcn/UI
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
+### **Cloud, Data & Infrastructure**
+AWS | GCP | Azure | Azure Data Explorer (ADX)  
+Docker | Linux | Jupyter Notebook
 
-###
+### **Developer & Network Tools**
+Git | SQL Developer | MongoDB Atlas | ServiceNow  
+JIRA | Geneva Health Dashboard | Webex Control Hub | BeyondTrust  
+Cisco CUCM | Unity | IM&P | HCS | TSP
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
+---
 
-###
+## 📈 What I’m Focusing On Now
+- Cloud certifications and hands-on labs (AWS + GCP)
+- Building data analytics dashboards and ETL pipelines
+- Automation for telecom/healthcare workflows
+- Strengthening backend engineering fundamentals
 
-<p align="left">Education</p>
+---
 
-###
+## 💼 Professional Experience (Short Summary)
 
-<p align="left">Certification</p>
+**Infosys – AT&T (Cisco HCS)**  
+Supporting multi-tenant Cisco UC systems (CUCM, Unity, WebEx), improving system reliability, and documenting workflows for enterprise users.
 
-###
+**Infosys – Microsoft (FedRAMP / CVS Voicebot)**  
+Monitored and maintained secure voicebot applications, analyzed logs with ADX, and coordinated incident response for high-availability cloud systems.
 
-<p align="left">Professional Experience</p>
+**Infosys – Verizon (Network Operations & Frontend)**  
+Maintained network integrity, analyzed AWS and Linux-based logs, developed UI components for enterprise design systems, and supported internal network management tools.
 
-###
+**Revature**  
+Built React/Next.js applications, REST APIs, and full-stack projects using Java, SQL, and AWS.
+
+---
+
+## 🚀 Projects (More Coming Soon)
+*(Pinned projects will go here once we build your data + cloud portfolio.)*
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn:** linkedin.com/in/john-amores  
+- **Email:** johncamores@gmail.com  
+
+---
