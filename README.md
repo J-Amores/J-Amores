@@ -67,6 +67,16 @@ so instead of manufacturing a to-do list.
 
 [Read the report →](https://j-amores.github.io/data-analyst-portfolio/CS05-Youtube-Statistic-Study/) · `Python` `pandas` `numpy` `scipy` `matplotlib`
 
+### [**Software Development**](https://github.com/J-Amores/software-development)
+Full-stack application work, built through a gated pipeline where no stage verifies its own work:
+the spec is not confirmed by whoever wrote it, tests are observed failing before the code that
+passes them, and a fix is re-reviewed by someone other than whoever filed it.
+
+**In specification —** a finance dashboard on Postgres where every figure is derived at read time
+from the rows beneath it rather than read back from a stored total, and any number can be traced to
+the SQL that produced it and the plan it executed under. `React` `TypeScript` `Express` `Postgres`
+`Drizzle`
+
 ---
 
 ## 🌐 Connect With Me
