@@ -52,8 +52,20 @@ Built React/Next.js applications, REST APIs, and full-stack projects using Java,
 
 ---
 
-## 🚀 Projects (More Coming Soon)
-*(Pinned projects will go here once we build your data + cloud portfolio.)*
+## 🚀 Projects
+
+### [**Data Analyst Portfolio**](https://github.com/J-Amores/data-analyst-portfolio)
+Applied data analysis case studies. Each starts from a decision somebody actually has to make,
+answers it against real data, and is written so a reader can find the point where it might be wrong.
+Every study ships a summary, an interactive report, and the executed notebook behind both.
+
+**Currently up —** *One-hit or repeat: what separates a small channel that trends twice?* 205 days
+of the US YouTube trending board. Channels that trended more than once were already ahead on their
+very first trending video (4.84% engagement vs 3.05%), before any repeating had happened — but none
+of the settings a creator controls turns out to be the lever that gets you there, and the study says
+so instead of manufacturing a to-do list.
+
+[Read the report →](https://j-amores.github.io/data-analyst-portfolio/CS05-Youtube-Statistic-Study/) · `Python` `pandas` `numpy` `scipy` `matplotlib`
 
 ---
 
